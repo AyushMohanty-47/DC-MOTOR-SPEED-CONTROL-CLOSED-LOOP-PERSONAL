@@ -168,7 +168,8 @@ Through this project, the following topics are practiced:
 ## 👤 Author
 
 **Mohammad Barabadi**  
-GitHub: [@mohammadbrd](https://github.com/mohammadbrd)
+GitHub: [@mohammadbrd](https://github.com/mohammadbrd)  
+Linkedin: [@mohammadbrd](https://www.linkedin.com/in/mohammadbrd/)
 
 ---
 
