@@ -165,20 +165,6 @@ Through this project, the following topics are practiced:
 
 ---
 
-## 📌 Applications
-
-DC motor speed control is widely used in:
-
-- Robotics
-- Industrial automation
-- Electric vehicles
-- Conveyor systems
-- CNC machines
-- Smart mechatronic systems
-- Embedded motor control platforms
-
----
-
 ## 👤 Author
 
 **Mohammad Barabadi**  
